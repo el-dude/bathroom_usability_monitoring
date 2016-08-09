@@ -3,7 +3,11 @@ This App will monitor the photoresistor and door sensor to determine if the room
 
 # Requirements
 - [Particle Photon](https://www.particle.io/products/hardware/photon-wifi-dev-kit) or [Redbear Duo](http://redbear.cc/duo/) 
-- [Photoresistor}(https://en.wikipedia.org/wiki/Photoresistor)
+- [Photoresistor](https://en.wikipedia.org/wiki/Photoresistor)
 - [Door sensor](https://www.amazon.com/Magnetic-Sensor-Window-Warning-Switch/dp/B0050N7SM0) 
 - [Particle.io account](https://www.particle.io/)
 
+# Instructions
+Follow the instructions to setup either your Particle Photon or Redbear Duo and then upload your code to the device. 
+
+<DIAGRAM GOES HERE>
