@@ -10,4 +10,5 @@ This App will monitor the photoresistor and door sensor to determine if the room
 # Instructions
 Follow the instructions to setup either your Particle Photon or Redbear Duo and then upload your code to the device. 
 
+The Diagram overview of how the device will work.
 <DIAGRAM GOES HERE>
